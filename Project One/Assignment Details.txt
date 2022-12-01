@@ -1,0 +1,54 @@
+Assignment --------------------------------------
+
+Your group is working on behalf of Forestview to create a proposal / “mock” application. 
+This application deals with data storage. 
+It will allow the user to use Python to add, store, and retrieve data (see project detail).  
+This is part of Forestview’s upcoming SafeZone© proposals to key customers, such as Dell EMC.  
+
+The individual’s responsibilities are the following:
+  Application Coding
+  Coding Compliance
+  Presentation
+  Written (including technical documentation)
+
+Requirements ------------------------------------
+
+1.) APPLICATION CODING ------
+  The application language is to be Python3  
+  The app must store, forward, and search data sets, such as an employee database.  
+  A graphical UI must be included (tkinter)
+  Storage solutions include lists, dictionaries, and pickling 
+  At minimum, track name, position, SSN, home address, email, phone numbers, skills and have unique identifier
+
+  SSN, email, and phone numbers must be in a PROPER format
+  Application to be packaged and transmitted as a “.exe” using ‘pyinstaller’
+  Comments are appropriate and explanatory; contain necessary information
+  Code can’t be executed if imported
+  See “proposed coding tasks and task sequence” for detailed requirements.  
+
+
+2.) CODING COMPLIANCE ------
+  User input to be filtered
+  Use must comply with a user agreement as a condition to the downloading of the application
+  Within the user agreement, the following must be addressed: data privacy, application sharing, and other appropriate language (eg.. “user may not sell or distribute data without the express consent of Forestview….”)
+
+  IMPORTANT: you must also provide a unilateral indemnity clause, precluding Forestview from legal ramifications for things such as data breaches, zero-day attacks, and database worms, such as SQL injection.
+  Include language indicating periodic vulnerability assessments against your system, and that you also demand said preventive actions from all your key vendors
+  State that requirements will change over time, as technology and the overall security landscape changes
+
+
+
+3.) PRESENTATION ------
+  A demonstration must be provided, showing the adding of at least 50-1000 records (ZOOM recording)
+  This demonstration must include attempts to add so-called “forbidden” characters (“#$%^…..)
+  Technical instructions to be included ON THE application homepage
+  Offer delivery options (eg. “we are working on a CLOUD implementation….”)
+  See “sample webpage” and sample directory hierarchy
+
+4.) WRITTEN (including technical documentation) ------
+  State your case!!
+  Format is Times New Roman, 12 point, double spaced
+  Include similar technical documentation from the website
+  Include hosting quote in various platforms, such as AWS
+  Include future recommendations
+  APA references
