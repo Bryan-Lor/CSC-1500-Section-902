@@ -123,3 +123,4 @@ def getSalaryRaises(employeeDatabase):
             person[personID]["Wage"] = round(wage * 1.02, 2) # 2% Standard Raise 
         companyRaises.append(person)
     return companyRaises
+
