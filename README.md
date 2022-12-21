@@ -8,14 +8,14 @@ Lab assignments are posted weekly throughout the course and completed in Python.
 <br />  
 
 ### Final Project: Salary Management Calculator
-![Final Project](https://github.com/Bryan-Lor/CSC-1500-Section-902/blob/main/Final%20Project/readme%20img/fpimage1.png?raw=true)  
+![Final Project](Salary_Management_Calculator/readme_img/fpimage1.png?raw=true)  
 <br />  
 
 ### Project Three: Lor Cipher 
-![Lor Cipher](https://github.com/Bryan-Lor/CSC-1500-Section-902/blob/main/Project%20Three/readme%20img/p3img1.png?raw=true)  
+![Lor Cipher](Lor_Cipher/readme_img/p3img1.png?raw=true)  
 <br />  
   
 ### Project One: Backend Data Storage Program
-![Project One](https://github.com/Bryan-Lor/CSC-1500-Section-902/blob/main/Project%20One/readme%20img/p1img1.PNG?raw=true)  
+![Project One](SafeZone_Data_Storage/readme_img/p1img1.PNG?raw=true)  
 <br />  
   
