@@ -3,6 +3,13 @@
 This repository are my coursework submissions for my Fundamental To Computer Science class.  
 Lab assignments are posted weekly throughout the course and completed in Python.  
 <br />
+### Topics Learned
+- Datastructures
+- Algorithms
+- Encryption & Decryption
+- Pickling
+- Linux
+- MySQL
   
 ## Featured Course Projects  
 <br />  
