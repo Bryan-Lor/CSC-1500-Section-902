@@ -9,7 +9,7 @@ Final Project for my Fundamentals to Computer Science course at Wayne State.
 **Step Two | Delivery Details:**
 -	Create a powerpoint or video show casing the improved project and it's new features
   
-## 💻 Project
+## 💻 Salary Management Calculator
 Assignment 12 has been completely overhauled to now follow its prompt more practically. The newer software features a modern GUI alongside a complete file save/load system. As a result, the entire code base has been restructured into modularized components with an object orientated design.
   
 ![Updated Software Image](readme_img/fpimage1.png?raw=true)  
