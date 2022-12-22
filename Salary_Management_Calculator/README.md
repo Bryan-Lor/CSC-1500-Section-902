@@ -17,3 +17,6 @@ Assignment 12 has been completely overhauled to now follow its prompt more pract
 ![Old Version](readme_img/fpimage2.png?raw=true)  
   
 ![New Features](readme_img/fpimage3.png?raw=true)
+  
+
+[![View Entire PDF](https://img.shields.io/badge/View_Entire_PDF-2C64BA?style=for-the-badge)](Salary_Manager_Calculator_Delivery.pdf)
